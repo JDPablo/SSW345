@@ -8,7 +8,7 @@ Hello GitHub!
 ![5](https://user-images.githubusercontent.com/49913087/111890455-cd3cba00-89bf-11eb-894d-5a401b50facd.png)
 
 ##### To-Do List
-- [ ] Finish first four levels
-- [ ] Consider cost-benefit weighoff of finishing extra credit
+- [X] Finish first four levels
+- [X] Consider cost-benefit weighoff of finishing extra credit
 - [ ] Write notes to remember what I've learned
 - [ ] Find more resources to solidify new knowledge.
